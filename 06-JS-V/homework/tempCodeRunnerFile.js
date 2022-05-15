@@ -1,0 +1,1 @@
+Usuario.prototype.saludar = () => `Hola, mi nombre es ${this.nombre}`;
